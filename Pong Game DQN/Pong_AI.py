@@ -227,7 +227,7 @@ if not os.path.exists(graph_dir):
     os.makedirs(graph_dir)
     
 # Initialize DQN
-model = tf.keras.models.load_model("checkpoints/model_episode_500.h5")
+model = create_dqn_model()
 target_model = create_dqn_model()
 target_model.set_weights(model.get_weights())
 
@@ -246,166 +246,166 @@ env = PongEnv()
 reward_store = [0]
 
 
-# # Training loop
-# for episode in range(MAX_EPISODES):
-#     tf.keras.backend.clear_session()
-#     state = env.reset()
-#     state = np.expand_dims(state, axis=0)
+# Training loop
+for episode in range(MAX_EPISODES):
+    tf.keras.backend.clear_session()
+    state = env.reset()
+    state = np.expand_dims(state, axis=0)
 
-#     total_reward = 0
+    total_reward = 0
     
-#     for step in range(MAX_STEPS):
-#         # Handle Pygame events to keep the game responsive
-#         for event in pygame.event.get():
-#             if event.type == pygame.QUIT:
-#                 pygame.quit()
-#                 sys.exit()
+    for step in range(MAX_STEPS):
+        # Handle Pygame events to keep the game responsive
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                pygame.quit()
+                sys.exit()
 
-#         # Epsion Greedy action selection
-#         if np.random.rand() < EPSILON:
-#             action = np.random.choice(3)    
-#         else:
-#             q_values = model.predict(state, verbose=0)
-#             action = np.argmax(q_values[0])
-#             # print(action)
+        # Epsion Greedy action selection
+        if np.random.rand() < EPSILON:
+            action = np.random.choice(3)    
+        else:
+            q_values = model.predict(state, verbose=0)
+            action = np.argmax(q_values[0])
+            # print(action)
         
-#         # Take action
-#         next_state, reward, done = env.step(action)
-#         next_state = np.expand_dims(next_state, axis=0)
+        # Take action
+        next_state, reward, done = env.step(action)
+        next_state = np.expand_dims(next_state, axis=0)
 
-#         total_reward += reward
+        total_reward += reward
 
-#         # Display the game
-#         screen.fill(BG_COLOR)
-#         pygame.draw.rect(screen, LIGHT_GREY, env.player)
-#         pygame.draw.rect(screen, LIGHT_GREY, env.opponent)
-#         pygame.draw.ellipse(screen, LIGHT_GREY, env.ball)
-#         pygame.draw.aaline(screen, LIGHT_GREY, (SCREEN_WIDTH / 2, 0), (SCREEN_WIDTH / 2, SCREEN_HEIGHT))
+        # Display the game
+        screen.fill(BG_COLOR)
+        pygame.draw.rect(screen, LIGHT_GREY, env.player)
+        pygame.draw.rect(screen, LIGHT_GREY, env.opponent)
+        pygame.draw.ellipse(screen, LIGHT_GREY, env.ball)
+        pygame.draw.aaline(screen, LIGHT_GREY, (SCREEN_WIDTH / 2, 0), (SCREEN_WIDTH / 2, SCREEN_HEIGHT))
 
-#         # Score text
-#         player_text = game_font.render(f"{env.player_score}", False, LIGHT_GREY)
-#         screen.blit(player_text, (SCREEN_WIDTH / 2 + 150, SCREEN_HEIGHT / 2))
-#         opponent_text = game_font.render(f"{env.opponent_score}", False, LIGHT_GREY)
-#         screen.blit(opponent_text, (SCREEN_WIDTH / 2 - 200, SCREEN_HEIGHT / 2))
+        # Score text
+        player_text = game_font.render(f"{env.player_score}", False, LIGHT_GREY)
+        screen.blit(player_text, (SCREEN_WIDTH / 2 + 150, SCREEN_HEIGHT / 2))
+        opponent_text = game_font.render(f"{env.opponent_score}", False, LIGHT_GREY)
+        screen.blit(opponent_text, (SCREEN_WIDTH / 2 - 200, SCREEN_HEIGHT / 2))
     
-#         # Update the display
-#         pygame.display.flip()
-#         clock.tick(60)
+        # Update the display
+        pygame.display.flip()
+        clock.tick(60)
 
-#         # Store experience in memory buffer
-#         memory.append((state, action, reward, next_state, done))
+        # Store experience in memory buffer
+        memory.append((state, action, reward, next_state, done))
 
-#         # Update state
-#         state = next_state
+        # Update state
+        state = next_state
 
-#         # Check if done
-#         if done:
-#             reward_store.append(total_reward)
-#             break
+        # Check if done
+        if done:
+            reward_store.append(total_reward)
+            break
         
-#         # Experience Replay
-#         if len(memory) > BATCH_SIZE:
-#             batch = random.sample(memory, BATCH_SIZE)
-#             states, actions, rewards, next_states, dones = zip(*batch)
+        # Experience Replay
+        if len(memory) > BATCH_SIZE:
+            batch = random.sample(memory, BATCH_SIZE)
+            states, actions, rewards, next_states, dones = zip(*batch)
 
-#             states = np.concatenate(states)
-#             next_states = np.concatenate(next_states)
+            states = np.concatenate(states)
+            next_states = np.concatenate(next_states)
 
-#             target_q_values = target_model.predict(next_states, verbose=0)
-#             max_target_q_values = np.amax(target_q_values, axis=1)
+            target_q_values = target_model.predict(next_states, verbose=0)
+            max_target_q_values = np.amax(target_q_values, axis=1)
 
-#             targets = model.predict(states, verbose=0)
-#             for i in range(BATCH_SIZE):
-#                 if dones[i]:
-#                     targets[i][actions[i]] = rewards[i]
-#                 else:
-#                     targets[i][actions[i]] = rewards[i] + GAMMA * max_target_q_values[i]
+            targets = model.predict(states, verbose=0)
+            for i in range(BATCH_SIZE):
+                if dones[i]:
+                    targets[i][actions[i]] = rewards[i]
+                else:
+                    targets[i][actions[i]] = rewards[i] + GAMMA * max_target_q_values[i]
             
-#             model.train_on_batch(states, targets)
+            model.train_on_batch(states, targets)
 
-#         # Update target model
-#         if step % TARGET_UPDATE_FREQ == 0:
-#             target_model.set_weights(model.get_weights())
+        # Update target model
+        if step % TARGET_UPDATE_FREQ == 0:
+            target_model.set_weights(model.get_weights())
         
-#         # After each step garbage collection
-#         gc.collect()
+        # After each step garbage collection
+        gc.collect()
 
     
-#     # Reduce Episolon
-#     if EPSILON >= EPSILON_MIN:
-#         EPSILON *= EPSILON_DECAY
+    # Reduce Episolon
+    if EPSILON >= EPSILON_MIN:
+        EPSILON *= EPSILON_DECAY
 
-#     # Saving model information
-#     if episode % 100 == 0 and episode != 0: 
-#         model.save(os.path.join(checkpoint_dir, f'model_episode_{episode}.h5'))
-#         avg_reward = np.mean(reward_store[-100])
-#         print(f"Average_reward : {avg_reward:.2f}")
+    # Saving model information
+    if episode % 100 == 0 and episode != 0: 
+        model.save(os.path.join(checkpoint_dir, f'model_episode_{episode}.h5'))
+        avg_reward = np.mean(reward_store[-100])
+        print(f"Average_reward : {avg_reward:.2f}")
 
-#         # Plotting graph
-#         x = np.arange(0, len(reward_store), 1)
-#         plt.figure(figsize=(10,6))
-#         plt.plot(x, np.array(reward_store), label="Reward Graph")
-#         plt.xlabel("Episodes")
-#         plt.ylabel("Rewards")
-#         plt.legend()
-#         plt.savefig(os.path.join(graph_dir, f'reward_graph_episode{episode}.png'))
-#         plt.close()
+        # Plotting graph
+        x = np.arange(0, len(reward_store), 1)
+        plt.figure(figsize=(10,6))
+        plt.plot(x, np.array(reward_store), label="Reward Graph")
+        plt.xlabel("Episodes")
+        plt.ylabel("Rewards")
+        plt.legend()
+        plt.savefig(os.path.join(graph_dir, f'reward_graph_episode{episode}.png'))
+        plt.close()
 
-#     print(f"Episode: {episode}, Total Reward: {total_reward:.2f}, Epsilon: {EPSILON}")
-#     print(f"Total Hits : {env.player_hits}")
-
-
-#     # After each episode garbage collection
-#     gc.collect()
-
-# print(f"Total Games: {env.player_score + env.opponent_score}")
-# print(f"Games won : {env.player_score}")
-
-# # Save the model
-# model.save("Pong_dqn_model_01.h5")
+    print(f"Episode: {episode}, Total Reward: {total_reward:.2f}, Epsilon: {EPSILON}")
+    print(f"Total Hits : {env.player_hits}")
 
 
+    # After each episode garbage collection
+    gc.collect()
 
-# Setup up the display
-screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("PONG with DQN")
+print(f"Total Games: {env.player_score + env.opponent_score}")
+print(f"Games won : {env.player_score}")
+
+# Save the model
+model.save("Pong_dqn_model_01.h5")
 
 
-# Play the game using the trained model
-env = PongEnv()
-state = env.reset()
-state = np.expand_dims(state, axis=0)
 
-while True:
-    for event in pygame.event.get():
-        if event.type == pygame.QUIT:
-            pygame.quit()
-            exit()
+# # Setup up the display
+# screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
+# pygame.display.set_caption("PONG with DQN")
 
-    q_values = model.predict(state, verbose=0)
-    action = np.argmax(q_values[0])
-    next_state, reward, done = env.step(action)
-    next_state = np.expand_dims(next_state, axis=0)
 
-    state = next_state
+# # Play the game using the trained model
+# env = PongEnv()
+# state = env.reset()
+# state = np.expand_dims(state, axis=0)
 
-    if done:
-        state = env.reset()
-        state = np.expand_dims(state, axis=0)
+# while True:
+#     for event in pygame.event.get():
+#         if event.type == pygame.QUIT:
+#             pygame.quit()
+#             exit()
 
-    # Display the game
-    screen.fill(BG_COLOR)
-    pygame.draw.rect(screen, LIGHT_GREY, env.player)
-    pygame.draw.rect(screen, LIGHT_GREY, env.opponent)
-    pygame.draw.ellipse(screen, LIGHT_GREY, env.ball)
-    pygame.draw.aaline(screen, LIGHT_GREY, (SCREEN_WIDTH / 2, 0), (SCREEN_WIDTH / 2, SCREEN_HEIGHT))
+#     q_values = model.predict(state, verbose=0)
+#     action = np.argmax(q_values[0])
+#     next_state, reward, done = env.step(action)
+#     next_state = np.expand_dims(next_state, axis=0)
 
-    # Score text
-    player_text = game_font.render(f"{env.player_score}", False, LIGHT_GREY)
-    screen.blit(player_text, (SCREEN_WIDTH / 2 + 20, SCREEN_HEIGHT / 2))
-    opponent_text = game_font.render(f"{env.opponent_score}", False, LIGHT_GREY)
-    screen.blit(opponent_text, (SCREEN_WIDTH / 2 - 40, SCREEN_HEIGHT / 2))
+#     state = next_state
+
+#     if done:
+#         state = env.reset()
+#         state = np.expand_dims(state, axis=0)
+
+#     # Display the game
+#     screen.fill(BG_COLOR)
+#     pygame.draw.rect(screen, LIGHT_GREY, env.player)
+#     pygame.draw.rect(screen, LIGHT_GREY, env.opponent)
+#     pygame.draw.ellipse(screen, LIGHT_GREY, env.ball)
+#     pygame.draw.aaline(screen, LIGHT_GREY, (SCREEN_WIDTH / 2, 0), (SCREEN_WIDTH / 2, SCREEN_HEIGHT))
+
+#     # Score text
+#     player_text = game_font.render(f"{env.player_score}", False, LIGHT_GREY)
+#     screen.blit(player_text, (SCREEN_WIDTH / 2 + 20, SCREEN_HEIGHT / 2))
+#     opponent_text = game_font.render(f"{env.opponent_score}", False, LIGHT_GREY)
+#     screen.blit(opponent_text, (SCREEN_WIDTH / 2 - 40, SCREEN_HEIGHT / 2))
     
-    # Update the display
-    pygame.display.flip()
-    clock.tick(60)
+#     # Update the display
+#     pygame.display.flip()
+#     clock.tick(60)
