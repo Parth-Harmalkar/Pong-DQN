@@ -1,0 +1,1007 @@
+Episode: 0, Total Reward: -46.25, Epsilon: 0.995
+Total Hits : 0
+Episode: 1, Total Reward: -48.43, Epsilon: 0.990025
+Total Hits : 0
+Episode: 2, Total Reward: -48.68, Epsilon: 0.985074875
+Total Hits : 0
+Episode: 3, Total Reward: -48.31, Epsilon: 0.9801495006250001
+Total Hits : 0
+Episode: 4, Total Reward: -48.29, Epsilon: 0.9752487531218751
+Total Hits : 0
+Episode: 5, Total Reward: -48.46, Epsilon: 0.9703725093562657
+Total Hits : 0
+Episode: 6, Total Reward: -46.45, Epsilon: 0.9655206468094844
+Total Hits : 0
+Episode: 7, Total Reward: -48.49, Epsilon: 0.960693043575437
+Total Hits : 0
+Episode: 8, Total Reward: -46.63, Epsilon: 0.9558895783575597
+Total Hits : 0
+Episode: 9, Total Reward: -40.27, Epsilon: 0.9511101304657719
+Total Hits : 1
+Episode: 10, Total Reward: -48.42, Epsilon: 0.946354579813443
+Total Hits : 0
+Episode: 11, Total Reward: -46.18, Epsilon: 0.9416228069143757
+Total Hits : 0
+Episode: 12, Total Reward: -48.61, Epsilon: 0.9369146928798039
+Total Hits : 0
+Episode: 13, Total Reward: -48.74, Epsilon: 0.9322301194154049
+Total Hits : 0
+Episode: 14, Total Reward: -48.35, Epsilon: 0.9275689688183278
+Total Hits : 0
+Episode: 15, Total Reward: -48.40, Epsilon: 0.9229311239742362
+Total Hits : 0
+Episode: 16, Total Reward: -48.52, Epsilon: 0.918316468354365
+Total Hits : 0
+Episode: 17, Total Reward: -48.58, Epsilon: 0.9137248860125932
+Total Hits : 0
+Episode: 18, Total Reward: -46.15, Epsilon: 0.9091562615825302
+Total Hits : 0
+Episode: 19, Total Reward: -46.22, Epsilon: 0.9046104802746175
+Total Hits : 0
+Episode: 20, Total Reward: -48.43, Epsilon: 0.9000874278732445
+Total Hits : 0
+Episode: 21, Total Reward: -48.51, Epsilon: 0.8955869907338783
+Total Hits : 0
+Episode: 22, Total Reward: -48.39, Epsilon: 0.8911090557802088
+Total Hits : 0
+Episode: 23, Total Reward: -48.36, Epsilon: 0.8866535105013078
+Total Hits : 0
+Episode: 24, Total Reward: -46.49, Epsilon: 0.8822202429488013
+Total Hits : 0
+Episode: 25, Total Reward: -48.48, Epsilon: 0.8778091417340573
+Total Hits : 0
+Episode: 26, Total Reward: -39.98, Epsilon: 0.8734200960253871
+Total Hits : 1
+Episode: 27, Total Reward: -46.15, Epsilon: 0.8690529955452602
+Total Hits : 0
+Episode: 28, Total Reward: -39.82, Epsilon: 0.8647077305675338
+Total Hits : 1
+Episode: 29, Total Reward: -48.43, Epsilon: 0.8603841919146962
+Total Hits : 0
+Episode: 30, Total Reward: -46.32, Epsilon: 0.8560822709551227
+Total Hits : 0
+Episode: 31, Total Reward: -46.92, Epsilon: 0.851801859600347
+Total Hits : 0
+Episode: 32, Total Reward: -48.36, Epsilon: 0.8475428503023453
+Total Hits : 0
+Episode: 33, Total Reward: -48.35, Epsilon: 0.8433051360508336
+Total Hits : 0
+Episode: 34, Total Reward: -48.75, Epsilon: 0.8390886103705794
+Total Hits : 0
+Episode: 35, Total Reward: -41.22, Epsilon: 0.8348931673187264
+Total Hits : 1
+Episode: 36, Total Reward: -45.99, Epsilon: 0.8307187014821328
+Total Hits : 0
+Episode: 37, Total Reward: -48.60, Epsilon: 0.8265651079747222
+Total Hits : 0
+Episode: 38, Total Reward: -47.97, Epsilon: 0.8224322824348486
+Total Hits : 0
+Episode: 39, Total Reward: -45.91, Epsilon: 0.8183201210226743
+Total Hits : 0
+Episode: 40, Total Reward: -48.56, Epsilon: 0.8142285204175609
+Total Hits : 0
+Episode: 41, Total Reward: -46.17, Epsilon: 0.810157377815473
+Total Hits : 0
+Episode: 42, Total Reward: -46.19, Epsilon: 0.8061065909263957
+Total Hits : 0
+Episode: 43, Total Reward: -48.43, Epsilon: 0.8020760579717637
+Total Hits : 0
+Episode: 44, Total Reward: -48.45, Epsilon: 0.798065677681905
+Total Hits : 0
+Episode: 45, Total Reward: -46.11, Epsilon: 0.7940753492934954
+Total Hits : 0
+Episode: 46, Total Reward: -48.35, Epsilon: 0.7901049725470279
+Total Hits : 0
+Episode: 47, Total Reward: -48.47, Epsilon: 0.7861544476842928
+Total Hits : 0
+Episode: 48, Total Reward: -46.69, Epsilon: 0.7822236754458713
+Total Hits : 0
+Episode: 49, Total Reward: -46.59, Epsilon: 0.778312557068642
+Total Hits : 0
+Episode: 50, Total Reward: -48.69, Epsilon: 0.7744209942832988
+Total Hits : 0
+Episode: 51, Total Reward: -46.33, Epsilon: 0.7705488893118823
+Total Hits : 0
+Episode: 52, Total Reward: -48.79, Epsilon: 0.7666961448653229
+Total Hits : 0
+Episode: 53, Total Reward: -48.02, Epsilon: 0.7628626641409962
+Total Hits : 0
+Episode: 54, Total Reward: -46.41, Epsilon: 0.7590483508202912
+Total Hits : 0
+Episode: 55, Total Reward: -45.78, Epsilon: 0.7552531090661897
+Total Hits : 0
+Episode: 56, Total Reward: -48.19, Epsilon: 0.7514768435208588
+Total Hits : 0
+Episode: 57, Total Reward: -47.41, Epsilon: 0.7477194593032545
+Total Hits : 0
+Episode: 58, Total Reward: -48.22, Epsilon: 0.7439808620067382
+Total Hits : 0
+Episode: 59, Total Reward: -48.41, Epsilon: 0.7402609576967045
+Total Hits : 0
+Episode: 60, Total Reward: -47.61, Epsilon: 0.736559652908221
+Total Hits : 0
+Episode: 61, Total Reward: -48.58, Epsilon: 0.7328768546436799
+Total Hits : 0
+Episode: 62, Total Reward: -48.56, Epsilon: 0.7292124703704616
+Total Hits : 0
+Episode: 63, Total Reward: -45.75, Epsilon: 0.7255664080186093
+Total Hits : 0
+Episode: 64, Total Reward: -40.78, Epsilon: 0.7219385759785162
+Total Hits : 1
+Episode: 65, Total Reward: -48.47, Epsilon: 0.7183288830986236
+Total Hits : 0
+Episode: 66, Total Reward: -44.09, Epsilon: 0.7147372386831305
+Total Hits : 1
+Episode: 67, Total Reward: -46.26, Epsilon: 0.7111635524897149
+Total Hits : 0
+Episode: 68, Total Reward: -46.54, Epsilon: 0.7076077347272662
+Total Hits : 0
+Episode: 69, Total Reward: -48.56, Epsilon: 0.7040696960536299
+Total Hits : 0
+Episode: 70, Total Reward: -46.07, Epsilon: 0.7005493475733617
+Total Hits : 0
+Episode: 71, Total Reward: -45.62, Epsilon: 0.697046600835495
+Total Hits : 0
+Episode: 72, Total Reward: -48.31, Epsilon: 0.6935613678313175
+Total Hits : 0
+Episode: 73, Total Reward: -48.74, Epsilon: 0.6900935609921609
+Total Hits : 0
+Episode: 74, Total Reward: -48.14, Epsilon: 0.6866430931872001
+Total Hits : 0
+Episode: 75, Total Reward: -48.42, Epsilon: 0.6832098777212641
+Total Hits : 0
+Episode: 76, Total Reward: -45.77, Epsilon: 0.6797938283326578
+Total Hits : 0
+Episode: 77, Total Reward: -46.28, Epsilon: 0.6763948591909945
+Total Hits : 0
+Episode: 78, Total Reward: -48.55, Epsilon: 0.6730128848950395
+Total Hits : 0
+Episode: 79, Total Reward: -48.93, Epsilon: 0.6696478204705644
+Total Hits : 0
+Episode: 80, Total Reward: -44.01, Epsilon: 0.6662995813682115
+Total Hits : 2
+Episode: 81, Total Reward: -47.80, Epsilon: 0.6629680834613705
+Total Hits : 0
+Episode: 82, Total Reward: -48.52, Epsilon: 0.6596532430440636
+Total Hits : 0
+Episode: 83, Total Reward: -48.49, Epsilon: 0.6563549768288433
+Total Hits : 0
+Episode: 84, Total Reward: -47.85, Epsilon: 0.653073201944699
+Total Hits : 0
+Episode: 85, Total Reward: -40.04, Epsilon: 0.6498078359349755
+Total Hits : 1
+Episode: 86, Total Reward: -48.36, Epsilon: 0.6465587967553006
+Total Hits : 0
+Episode: 87, Total Reward: -48.12, Epsilon: 0.6433260027715241
+Total Hits : 0
+Episode: 88, Total Reward: -48.24, Epsilon: 0.6401093727576664
+Total Hits : 0
+Episode: 89, Total Reward: -48.17, Epsilon: 0.6369088258938781
+Total Hits : 0
+Episode: 90, Total Reward: -48.03, Epsilon: 0.6337242817644086
+Total Hits : 0
+Episode: 91, Total Reward: -39.69, Epsilon: 0.6305556603555866
+Total Hits : 1
+Episode: 92, Total Reward: -47.91, Epsilon: 0.6274028820538087
+Total Hits : 0
+Episode: 93, Total Reward: -48.48, Epsilon: 0.6242658676435396
+Total Hits : 0
+Episode: 94, Total Reward: -44.11, Epsilon: 0.6211445383053219
+Total Hits : 2
+Episode: 95, Total Reward: -46.41, Epsilon: 0.6180388156137953
+Total Hits : 0
+Episode: 96, Total Reward: -48.34, Epsilon: 0.6149486215357263
+Total Hits : 0
+Episode: 97, Total Reward: -45.64, Epsilon: 0.6118738784280476
+Total Hits : 0
+Episode: 98, Total Reward: -39.91, Epsilon: 0.6088145090359074
+Total Hits : 1
+Episode: 99, Total Reward: -42.59, Epsilon: 0.6057704364907278
+Total Hits : 1
+Average_reward : -48.43
+Episode: 100, Total Reward: -45.73, Epsilon: 0.6027415843082742
+Total Hits : 0
+Episode: 101, Total Reward: -47.64, Epsilon: 0.5997278763867329
+Total Hits : 0
+Episode: 102, Total Reward: -46.17, Epsilon: 0.5967292370047992
+Total Hits : 0
+Episode: 103, Total Reward: -45.83, Epsilon: 0.5937455908197752
+Total Hits : 0
+Episode: 104, Total Reward: -47.57, Epsilon: 0.5907768628656763
+Total Hits : 0
+Episode: 105, Total Reward: -43.57, Epsilon: 0.5878229785513479
+Total Hits : 1
+Episode: 106, Total Reward: -39.31, Epsilon: 0.5848838636585911
+Total Hits : 1
+Episode: 107, Total Reward: -39.33, Epsilon: 0.5819594443402982
+Total Hits : 1
+Episode: 108, Total Reward: -46.02, Epsilon: 0.5790496471185967
+Total Hits : 0
+Episode: 109, Total Reward: -47.80, Epsilon: 0.5761543988830038
+Total Hits : 0
+Episode: 110, Total Reward: -48.21, Epsilon: 0.5732736268885887
+Total Hits : 0
+Episode: 111, Total Reward: -48.15, Epsilon: 0.5704072587541458
+Total Hits : 0
+Episode: 112, Total Reward: -38.87, Epsilon: 0.567555222460375
+Total Hits : 1
+Episode: 113, Total Reward: -39.86, Epsilon: 0.5647174463480732
+Total Hits : 1
+Episode: 114, Total Reward: -47.09, Epsilon: 0.5618938591163328
+Total Hits : 0
+Episode: 115, Total Reward: -44.31, Epsilon: 0.5590843898207511
+Total Hits : 2
+Episode: 116, Total Reward: -39.41, Epsilon: 0.5562889678716474
+Total Hits : 1
+Episode: 117, Total Reward: -33.62, Epsilon: 0.5535075230322891
+Total Hits : 2
+Episode: 118, Total Reward: -39.98, Epsilon: 0.5507399854171277
+Total Hits : 1
+Episode: 119, Total Reward: -46.23, Epsilon: 0.547986285490042
+Total Hits : 0
+Episode: 120, Total Reward: -47.63, Epsilon: 0.5452463540625918
+Total Hits : 0
+Episode: 121, Total Reward: -48.17, Epsilon: 0.5425201222922789
+Total Hits : 0
+Episode: 122, Total Reward: -40.48, Epsilon: 0.5398075216808175
+Total Hits : 1
+Episode: 123, Total Reward: -46.90, Epsilon: 0.5371084840724134
+Total Hits : 0
+Episode: 124, Total Reward: -48.38, Epsilon: 0.5344229416520513
+Total Hits : 0
+Episode: 125, Total Reward: -45.71, Epsilon: 0.531750826943791
+Total Hits : 0
+Episode: 126, Total Reward: -48.49, Epsilon: 0.5290920728090721
+Total Hits : 0
+Episode: 127, Total Reward: -40.60, Epsilon: 0.5264466124450268
+Total Hits : 1
+Episode: 128, Total Reward: -48.42, Epsilon: 0.5238143793828016
+Total Hits : 0
+Episode: 129, Total Reward: -48.20, Epsilon: 0.5211953074858876
+Total Hits : 0
+Episode: 130, Total Reward: -39.25, Epsilon: 0.5185893309484582
+Total Hits : 1
+Episode: 131, Total Reward: -40.46, Epsilon: 0.5159963842937159
+Total Hits : 1
+Episode: 132, Total Reward: -39.80, Epsilon: 0.5134164023722473
+Total Hits : 1
+Episode: 133, Total Reward: -41.35, Epsilon: 0.510849320360386
+Total Hits : 1
+Episode: 134, Total Reward: -32.36, Epsilon: 0.5082950737585841
+Total Hits : 2
+Episode: 135, Total Reward: -48.57, Epsilon: 0.5057535983897912
+Total Hits : 0
+Episode: 136, Total Reward: -47.13, Epsilon: 0.5032248303978422
+Total Hits : 0
+Episode: 137, Total Reward: -47.54, Epsilon: 0.500708706245853
+Total Hits : 0
+Episode: 138, Total Reward: -39.94, Epsilon: 0.4982051627146237
+Total Hits : 1
+Episode: 139, Total Reward: -47.57, Epsilon: 0.49571413690105054
+Total Hits : 0
+Episode: 140, Total Reward: -47.49, Epsilon: 0.4932355662165453
+Total Hits : 0
+Episode: 141, Total Reward: -47.35, Epsilon: 0.4907693883854626
+Total Hits : 0
+Episode: 142, Total Reward: -46.10, Epsilon: 0.4883155414435353
+Total Hits : 0
+Episode: 143, Total Reward: -37.07, Epsilon: 0.4858739637363176
+Total Hits : 2
+Episode: 144, Total Reward: -47.92, Epsilon: 0.483444593917636
+Total Hits : 0
+Episode: 145, Total Reward: -47.42, Epsilon: 0.4810273709480478
+Total Hits : 0
+Episode: 146, Total Reward: -48.07, Epsilon: 0.47862223409330756
+Total Hits : 0
+Episode: 147, Total Reward: -40.18, Epsilon: 0.47622912292284103
+Total Hits : 1
+Episode: 148, Total Reward: -46.74, Epsilon: 0.4738479773082268
+Total Hits : 0
+Episode: 149, Total Reward: -39.03, Epsilon: 0.47147873742168567
+Total Hits : 1
+Episode: 150, Total Reward: -47.05, Epsilon: 0.46912134373457726
+Total Hits : 0
+Episode: 151, Total Reward: -46.85, Epsilon: 0.46677573701590436
+Total Hits : 0
+Episode: 152, Total Reward: -26.37, Epsilon: 0.46444185833082485
+Total Hits : 3
+Episode: 153, Total Reward: -47.93, Epsilon: 0.46211964903917074
+Total Hits : 0
+Episode: 154, Total Reward: -26.15, Epsilon: 0.4598090507939749
+Total Hits : 3
+Episode: 155, Total Reward: -39.77, Epsilon: 0.457510005540005
+Total Hits : 1
+Episode: 156, Total Reward: -26.13, Epsilon: 0.45522245551230495
+Total Hits : 3
+Episode: 157, Total Reward: -32.22, Epsilon: 0.4529463432347434
+Total Hits : 2
+Episode: 158, Total Reward: -47.05, Epsilon: 0.4506816115185697
+Total Hits : 0
+Episode: 159, Total Reward: -40.10, Epsilon: 0.4484282034609769
+Total Hits : 2
+Episode: 160, Total Reward: -45.94, Epsilon: 0.446186062443672
+Total Hits : 0
+Episode: 161, Total Reward: -40.19, Epsilon: 0.4439551321314536
+Total Hits : 1
+Episode: 162, Total Reward: -11.33, Epsilon: 0.4417353564707963
+Total Hits : 4
+Episode: 163, Total Reward: -34.36, Epsilon: 0.43952667968844233
+Total Hits : 2
+Episode: 164, Total Reward: -48.25, Epsilon: 0.43732904629000013
+Total Hits : 0
+Episode: 165, Total Reward: -42.06, Epsilon: 0.4351424010585501
+Total Hits : 1
+Episode: 166, Total Reward: -32.71, Epsilon: 0.43296668905325736
+Total Hits : 2
+Episode: 167, Total Reward: -39.85, Epsilon: 0.43080185560799106
+Total Hits : 1
+Episode: 168, Total Reward: -9.81, Epsilon: 0.4286478463299511
+Total Hits : 5
+Episode: 169, Total Reward: -39.70, Epsilon: 0.42650460709830135
+Total Hits : 1
+Episode: 170, Total Reward: -39.46, Epsilon: 0.42437208406280985
+Total Hits : 1
+Episode: 171, Total Reward: -35.65, Epsilon: 0.4222502236424958
+Total Hits : 2
+Episode: 172, Total Reward: -37.49, Epsilon: 0.42013897252428334
+Total Hits : 2
+Episode: 173, Total Reward: -47.35, Epsilon: 0.4180382776616619
+Total Hits : 0
+Episode: 174, Total Reward: -40.01, Epsilon: 0.4159480862733536
+Total Hits : 1
+Episode: 175, Total Reward: -47.33, Epsilon: 0.41386834584198684
+Total Hits : 0
+Episode: 176, Total Reward: 2.78, Epsilon: 0.4117990041127769
+Total Hits : 5
+Episode: 177, Total Reward: -12.05, Epsilon: 0.40974000909221303
+Total Hits : 4
+Episode: 178, Total Reward: -48.10, Epsilon: 0.40769130904675194
+Total Hits : 0
+Episode: 179, Total Reward: -12.15, Epsilon: 0.40565285250151817
+Total Hits : 4
+Episode: 180, Total Reward: -39.58, Epsilon: 0.4036245882390106
+Total Hits : 2
+Episode: 181, Total Reward: -44.21, Epsilon: 0.4016064652978155
+Total Hits : 2
+Episode: 182, Total Reward: -33.19, Epsilon: 0.3995984329713264
+Total Hits : 2
+Episode: 183, Total Reward: -39.46, Epsilon: 0.3976004408064698
+Total Hits : 1
+Episode: 184, Total Reward: -46.21, Epsilon: 0.39561243860243744
+Total Hits : 1
+Episode: 185, Total Reward: -46.46, Epsilon: 0.3936343764094253
+Total Hits : 0
+Episode: 186, Total Reward: -47.30, Epsilon: 0.39166620452737816
+Total Hits : 0
+Episode: 187, Total Reward: -46.18, Epsilon: 0.3897078735047413
+Total Hits : 0
+Episode: 188, Total Reward: -47.41, Epsilon: 0.3877593341372176
+Total Hits : 0
+Episode: 189, Total Reward: -32.36, Epsilon: 0.3858205374665315
+Total Hits : 3
+Episode: 190, Total Reward: -47.35, Epsilon: 0.38389143477919885
+Total Hits : 0
+Episode: 191, Total Reward: -32.61, Epsilon: 0.3819719776053028
+Total Hits : 3
+Episode: 192, Total Reward: -46.01, Epsilon: 0.3800621177172763
+Total Hits : 0
+Episode: 193, Total Reward: -41.71, Epsilon: 0.37816180712868996
+Total Hits : 1
+Episode: 194, Total Reward: 15.34, Epsilon: 0.37627099809304654
+Total Hits : 6
+Episode: 195, Total Reward: -34.98, Epsilon: 0.3743896431025813
+Total Hits : 2
+Episode: 196, Total Reward: -35.79, Epsilon: 0.37251769488706843
+Total Hits : 2
+Episode: 197, Total Reward: -41.54, Epsilon: 0.3706551064126331
+Total Hits : 1
+Episode: 198, Total Reward: -35.64, Epsilon: 0.36880183088056995
+Total Hits : 2
+Episode: 199, Total Reward: 42.75, Epsilon: 0.3669578217261671
+Total Hits : 8
+Average_reward : -47.64
+Episode: 200, Total Reward: -26.64, Epsilon: 0.36512303261753626
+Total Hits : 3
+Episode: 201, Total Reward: -12.68, Epsilon: 0.3632974174544486
+Total Hits : 5
+Episode: 202, Total Reward: -35.60, Epsilon: 0.3614809303671764
+Total Hits : 2
+Episode: 203, Total Reward: -39.58, Epsilon: 0.3596735257153405
+Total Hits : 1
+Episode: 204, Total Reward: -46.39, Epsilon: 0.3578751580867638
+Total Hits : 0
+Episode: 205, Total Reward: -32.37, Epsilon: 0.35608578229633
+Total Hits : 2
+Episode: 206, Total Reward: 26.03, Epsilon: 0.3543053533848483
+Total Hits : 7
+Episode: 207, Total Reward: -35.37, Epsilon: 0.35253382661792404
+Total Hits : 2
+Episode: 208, Total Reward: 15.89, Epsilon: 0.3507711574848344
+Total Hits : 6
+Episode: 209, Total Reward: -30.16, Epsilon: 0.34901730169741024
+Total Hits : 3
+Episode: 210, Total Reward: 14.99, Epsilon: 0.3472722151889232
+Total Hits : 6
+Episode: 211, Total Reward: -36.20, Epsilon: 0.3455358541129786
+Total Hits : 2
+Episode: 212, Total Reward: -10.87, Epsilon: 0.3438081748424137
+Total Hits : 4
+Episode: 213, Total Reward: 14.50, Epsilon: 0.3420891339682016
+Total Hits : 6
+Episode: 214, Total Reward: -34.66, Epsilon: 0.3403786882983606
+Total Hits : 2
+Episode: 215, Total Reward: -10.54, Epsilon: 0.3386767948568688
+Total Hits : 4
+Episode: 216, Total Reward: 15.66, Epsilon: 0.33698341088258443
+Total Hits : 6
+Episode: 217, Total Reward: -35.27, Epsilon: 0.3352984938281715
+Total Hits : 2
+Episode: 218, Total Reward: -35.37, Epsilon: 0.33362200135903064
+Total Hits : 2
+Episode: 219, Total Reward: -28.15, Epsilon: 0.33195389135223546
+Total Hits : 3
+Episode: 220, Total Reward: -46.22, Epsilon: 0.3302941218954743
+Total Hits : 0
+Episode: 221, Total Reward: 7.42, Epsilon: 0.32864265128599696
+Total Hits : 6
+Episode: 222, Total Reward: -28.40, Epsilon: 0.326999438029567
+Total Hits : 3
+Episode: 223, Total Reward: 30.33, Epsilon: 0.3253644408394192
+Total Hits : 7
+Episode: 224, Total Reward: -28.21, Epsilon: 0.3237376186352221
+Total Hits : 3
+Episode: 225, Total Reward: -14.48, Epsilon: 0.322118930542046
+Total Hits : 4
+Episode: 226, Total Reward: -10.24, Epsilon: 0.32050833588933575
+Total Hits : 4
+Episode: 227, Total Reward: 29.43, Epsilon: 0.31890579420988907
+Total Hits : 7
+Episode: 228, Total Reward: -45.94, Epsilon: 0.3173112652388396
+Total Hits : 0
+Episode: 229, Total Reward: -14.73, Epsilon: 0.3157247089126454
+Total Hits : 4
+Episode: 230, Total Reward: 63.25, Epsilon: 0.3141460853680822
+Total Hits : 10
+Episode: 231, Total Reward: 196.62, Epsilon: 0.3125753549412418
+Total Hits : 12
+Episode: 232, Total Reward: -32.91, Epsilon: 0.31101247816653554
+Total Hits : 2
+Episode: 233, Total Reward: -10.80, Epsilon: 0.30945741577570285
+Total Hits : 4
+Episode: 234, Total Reward: -48.01, Epsilon: 0.3079101286968243
+Total Hits : 0
+Episode: 235, Total Reward: -34.97, Epsilon: 0.3063705780533402
+Total Hits : 2
+Episode: 236, Total Reward: -48.10, Epsilon: 0.30483872516307353
+Total Hits : 0
+Episode: 237, Total Reward: -26.09, Epsilon: 0.3033145315372582
+Total Hits : 3
+Episode: 238, Total Reward: -45.52, Epsilon: 0.3017979588795719
+Total Hits : 0
+Episode: 239, Total Reward: 194.90, Epsilon: 0.30028896908517405
+Total Hits : 12
+Episode: 240, Total Reward: -14.55, Epsilon: 0.2987875242397482
+Total Hits : 4
+Episode: 241, Total Reward: -39.00, Epsilon: 0.29729358661854943
+Total Hits : 1
+Episode: 242, Total Reward: 41.19, Epsilon: 0.29580711868545667
+Total Hits : 8
+Episode: 243, Total Reward: -25.90, Epsilon: 0.2943280830920294
+Total Hits : 3
+Episode: 244, Total Reward: 8.72, Epsilon: 0.29285644267656924
+Total Hits : 6
+Episode: 245, Total Reward: 192.43, Epsilon: 0.2913921604631864
+Total Hits : 12
+Episode: 246, Total Reward: 194.99, Epsilon: 0.28993519966087045
+Total Hits : 12
+Episode: 247, Total Reward: 71.75, Epsilon: 0.2884855236625661
+Total Hits : 10
+Episode: 248, Total Reward: 56.00, Epsilon: 0.28704309604425327
+Total Hits : 9
+Episode: 249, Total Reward: -45.94, Epsilon: 0.285607880564032
+Total Hits : 0
+Episode: 250, Total Reward: 54.94, Epsilon: 0.28417984116121187
+Total Hits : 9
+Episode: 251, Total Reward: -45.97, Epsilon: 0.2827589419554058
+Total Hits : 0
+Episode: 252, Total Reward: -28.55, Epsilon: 0.28134514724562876
+Total Hits : 3
+Episode: 253, Total Reward: -28.25, Epsilon: 0.2799384215094006
+Total Hits : 3
+Episode: 254, Total Reward: -32.70, Epsilon: 0.27853872940185365
+Total Hits : 2
+Episode: 255, Total Reward: -34.88, Epsilon: 0.27714603575484437
+Total Hits : 2
+Episode: 256, Total Reward: -47.58, Epsilon: 0.2757603055760701
+Total Hits : 0
+Episode: 257, Total Reward: 27.84, Epsilon: 0.2743815040481898
+Total Hits : 7
+Episode: 258, Total Reward: -26.37, Epsilon: 0.2730095965279488
+Total Hits : 3
+Episode: 259, Total Reward: -48.39, Epsilon: 0.27164454854530906
+Total Hits : 0
+Episode: 260, Total Reward: -28.54, Epsilon: 0.2702863258025825
+Total Hits : 3
+Episode: 261, Total Reward: -34.36, Epsilon: 0.2689348941735696
+Total Hits : 2
+Episode: 262, Total Reward: 193.86, Epsilon: 0.26759021970270175
+Total Hits : 12
+Episode: 263, Total Reward: 15.80, Epsilon: 0.2662522686041882
+Total Hits : 6
+Episode: 264, Total Reward: -28.65, Epsilon: 0.2649210072611673
+Total Hits : 3
+Episode: 265, Total Reward: -45.91, Epsilon: 0.26359640222486147
+Total Hits : 0
+Episode: 266, Total Reward: -0.60, Epsilon: 0.26227842021373715
+Total Hits : 5
+Episode: 267, Total Reward: 195.94, Epsilon: 0.2609670281126685
+Total Hits : 12
+Episode: 268, Total Reward: 69.75, Epsilon: 0.25966219297210513
+Total Hits : 10
+Episode: 269, Total Reward: -47.17, Epsilon: 0.2583638820072446
+Total Hits : 0
+Episode: 270, Total Reward: -43.96, Epsilon: 0.2570720625972084
+Total Hits : 2
+Episode: 271, Total Reward: 26.80, Epsilon: 0.25578670228422234
+Total Hits : 7
+Episode: 272, Total Reward: -8.36, Epsilon: 0.25450776877280124
+Total Hits : 5
+Episode: 273, Total Reward: 27.54, Epsilon: 0.2532352299289372
+Total Hits : 7
+Episode: 274, Total Reward: 195.61, Epsilon: 0.2519690537792925
+Total Hits : 12
+Episode: 275, Total Reward: -46.34, Epsilon: 0.2507092085103961
+Total Hits : 0
+Episode: 276, Total Reward: -27.85, Epsilon: 0.2494556624678441
+Total Hits : 3
+Episode: 277, Total Reward: 41.26, Epsilon: 0.24820838415550486
+Total Hits : 8
+Episode: 278, Total Reward: 28.37, Epsilon: 0.24696734223472733
+Total Hits : 7
+Episode: 279, Total Reward: -18.34, Epsilon: 0.2457325055235537
+Total Hits : 4
+Episode: 280, Total Reward: -14.04, Epsilon: 0.24450384299593592
+Total Hits : 4
+Episode: 281, Total Reward: 193.27, Epsilon: 0.24328132378095624
+Total Hits : 12
+Episode: 282, Total Reward: 196.43, Epsilon: 0.24206491716205145
+Total Hits : 12
+Episode: 283, Total Reward: -40.06, Epsilon: 0.2408545925762412
+Total Hits : 1
+Episode: 284, Total Reward: 43.71, Epsilon: 0.23965031961336
+Total Hits : 8
+Episode: 285, Total Reward: 195.40, Epsilon: 0.2384520680152932
+Total Hits : 12
+Episode: 286, Total Reward: 193.14, Epsilon: 0.23725980767521673
+Total Hits : 12
+Episode: 287, Total Reward: 196.22, Epsilon: 0.23607350863684065
+Total Hits : 12
+Episode: 288, Total Reward: -34.61, Epsilon: 0.23489314109365644
+Total Hits : 2
+Episode: 289, Total Reward: 12.22, Epsilon: 0.23371867538818816
+Total Hits : 6
+Episode: 290, Total Reward: 7.46, Epsilon: 0.23255008201124722
+Total Hits : 6
+Episode: 291, Total Reward: -14.74, Epsilon: 0.231387331601191
+Total Hits : 4
+Episode: 292, Total Reward: 9.40, Epsilon: 0.23023039494318503
+Total Hits : 6
+Episode: 293, Total Reward: -46.63, Epsilon: 0.2290792429684691
+Total Hits : 0
+Episode: 294, Total Reward: 194.85, Epsilon: 0.22793384675362674
+Total Hits : 12
+Episode: 295, Total Reward: -46.70, Epsilon: 0.22679417751985861
+Total Hits : 0
+Episode: 296, Total Reward: -38.45, Epsilon: 0.22566020663225933
+Total Hits : 1
+Episode: 297, Total Reward: -38.38, Epsilon: 0.22453190559909803
+Total Hits : 1
+Episode: 298, Total Reward: -47.51, Epsilon: 0.22340924607110255
+Total Hits : 0
+Episode: 299, Total Reward: -32.32, Epsilon: 0.22229219984074702
+Total Hits : 2
+Average_reward : -12.68
+Episode: 300, Total Reward: -11.06, Epsilon: 0.2211807388415433
+Total Hits : 4
+Episode: 301, Total Reward: -40.05, Epsilon: 0.22007483514733558
+Total Hits : 1
+Episode: 302, Total Reward: -47.63, Epsilon: 0.2189744609715989
+Total Hits : 0
+Episode: 303, Total Reward: -47.33, Epsilon: 0.2178795886667409
+Total Hits : 0
+Episode: 304, Total Reward: -39.94, Epsilon: 0.2167901907234072
+Total Hits : 1
+Episode: 305, Total Reward: -47.59, Epsilon: 0.21570623976979014
+Total Hits : 0
+Episode: 306, Total Reward: -39.81, Epsilon: 0.21462770857094118
+Total Hits : 1
+Episode: 307, Total Reward: -47.66, Epsilon: 0.21355457002808648
+Total Hits : 0
+Episode: 308, Total Reward: -40.10, Epsilon: 0.21248679717794605
+Total Hits : 1
+Episode: 309, Total Reward: -39.02, Epsilon: 0.21142436319205632
+Total Hits : 1
+Episode: 310, Total Reward: -10.74, Epsilon: 0.21036724137609603
+Total Hits : 4
+Episode: 311, Total Reward: -47.43, Epsilon: 0.20931540516921554
+Total Hits : 0
+Episode: 312, Total Reward: -47.44, Epsilon: 0.20826882814336947
+Total Hits : 0
+Episode: 313, Total Reward: -39.80, Epsilon: 0.20722748400265262
+Total Hits : 1
+Episode: 314, Total Reward: -32.09, Epsilon: 0.20619134658263935
+Total Hits : 2
+Episode: 315, Total Reward: 43.40, Epsilon: 0.20516038984972615
+Total Hits : 8
+Episode: 316, Total Reward: -46.83, Epsilon: 0.2041345879004775
+Total Hits : 0
+Episode: 317, Total Reward: -25.64, Epsilon: 0.2031139149609751
+Total Hits : 3
+Episode: 318, Total Reward: -47.72, Epsilon: 0.20209834538617025
+Total Hits : 0
+Episode: 319, Total Reward: 29.92, Epsilon: 0.2010878536592394
+Total Hits : 7
+Episode: 320, Total Reward: -25.28, Epsilon: 0.2000824143909432
+Total Hits : 3
+Episode: 321, Total Reward: -46.28, Epsilon: 0.19908200231898848
+Total Hits : 0
+Episode: 322, Total Reward: -46.94, Epsilon: 0.19808659230739353
+Total Hits : 0
+Episode: 323, Total Reward: -40.09, Epsilon: 0.19709615934585656
+Total Hits : 1
+Episode: 324, Total Reward: 1.61, Epsilon: 0.19611067854912728
+Total Hits : 5
+Episode: 325, Total Reward: -46.65, Epsilon: 0.19513012515638165
+Total Hits : 0
+Episode: 326, Total Reward: 194.74, Epsilon: 0.19415447453059972
+Total Hits : 12
+Episode: 327, Total Reward: -39.85, Epsilon: 0.19318370215794672
+Total Hits : 2
+Episode: 328, Total Reward: -33.90, Epsilon: 0.192217783647157
+Total Hits : 2
+Episode: 329, Total Reward: -34.28, Epsilon: 0.1912566947289212
+Total Hits : 2
+Episode: 330, Total Reward: -41.72, Epsilon: 0.1903004112552766
+Total Hits : 1
+Episode: 331, Total Reward: -20.31, Epsilon: 0.18934890919900021
+Total Hits : 4
+Episode: 332, Total Reward: -15.51, Epsilon: 0.18840216465300522
+Total Hits : 4
+Episode: 333, Total Reward: -34.19, Epsilon: 0.18746015382974018
+Total Hits : 2
+Episode: 334, Total Reward: 27.26, Epsilon: 0.1865228530605915
+Total Hits : 7
+Episode: 335, Total Reward: 193.99, Epsilon: 0.18559023879528855
+Total Hits : 12
+Episode: 336, Total Reward: 27.38, Epsilon: 0.1846622876013121
+Total Hits : 7
+Episode: 337, Total Reward: -26.98, Epsilon: 0.18373897616330553
+Total Hits : 3
+Episode: 338, Total Reward: 21.36, Epsilon: 0.182820281282489
+Total Hits : 7
+Episode: 339, Total Reward: -0.13, Epsilon: 0.18190617987607657
+Total Hits : 5
+Episode: 340, Total Reward: -38.80, Epsilon: 0.18099664897669618
+Total Hits : 1
+Episode: 341, Total Reward: -11.02, Epsilon: 0.1800916657318127
+Total Hits : 4
+Episode: 342, Total Reward: 70.46, Epsilon: 0.17919120740315364
+Total Hits : 10
+Episode: 343, Total Reward: -43.76, Epsilon: 0.17829525136613786
+Total Hits : 2
+Episode: 344, Total Reward: 194.25, Epsilon: 0.17740377510930716
+Total Hits : 12
+Episode: 345, Total Reward: 192.41, Epsilon: 0.17651675623376062
+Total Hits : 12
+Episode: 346, Total Reward: 83.07, Epsilon: 0.1756341724525918
+Total Hits : 11
+Episode: 347, Total Reward: -28.47, Epsilon: 0.17475600159032884
+Total Hits : 3
+Episode: 348, Total Reward: -39.39, Epsilon: 0.17388222158237718
+Total Hits : 1
+Episode: 349, Total Reward: 0.13, Epsilon: 0.1730128104744653
+Total Hits : 5
+Episode: 350, Total Reward: 25.25, Epsilon: 0.17214774642209296
+Total Hits : 7
+Episode: 351, Total Reward: 27.42, Epsilon: 0.1712870076899825
+Total Hits : 7
+Episode: 352, Total Reward: -45.25, Epsilon: 0.17043057265153258
+Total Hits : 1
+Episode: 353, Total Reward: 192.97, Epsilon: 0.16957841978827493
+Total Hits : 12
+Episode: 354, Total Reward: 1.37, Epsilon: 0.16873052768933355
+Total Hits : 5
+Episode: 355, Total Reward: 194.38, Epsilon: 0.1678868750508869
+Total Hits : 12
+Episode: 356, Total Reward: 56.53, Epsilon: 0.16704744067563246
+Total Hits : 9
+Episode: 357, Total Reward: 29.38, Epsilon: 0.1662122034722543
+Total Hits : 7
+Episode: 358, Total Reward: 192.97, Epsilon: 0.16538114245489302
+Total Hits : 12
+Episode: 359, Total Reward: -26.36, Epsilon: 0.16455423674261854
+Total Hits : 3
+Episode: 360, Total Reward: 70.51, Epsilon: 0.16373146555890544
+Total Hits : 10
+Episode: 361, Total Reward: -13.81, Epsilon: 0.16291280823111093
+Total Hits : 4
+Episode: 362, Total Reward: -14.09, Epsilon: 0.16209824418995536
+Total Hits : 4
+Episode: 363, Total Reward: 48.24, Epsilon: 0.16128775296900558
+Total Hits : 9
+Episode: 364, Total Reward: 192.83, Epsilon: 0.16048131420416054
+Total Hits : 12
+Episode: 365, Total Reward: 193.20, Epsilon: 0.15967890763313974
+Total Hits : 12
+Episode: 366, Total Reward: 78.39, Epsilon: 0.15888051309497406
+Total Hits : 11
+Episode: 367, Total Reward: 195.12, Epsilon: 0.1580861105294992
+Total Hits : 12
+Episode: 368, Total Reward: 14.08, Epsilon: 0.1572956799768517
+Total Hits : 6
+Episode: 369, Total Reward: -0.05, Epsilon: 0.15650920157696743
+Total Hits : 5
+Episode: 370, Total Reward: 29.42, Epsilon: 0.1557266555690826
+Total Hits : 7
+Episode: 371, Total Reward: 27.31, Epsilon: 0.1549480222912372
+Total Hits : 7
+Episode: 372, Total Reward: 27.42, Epsilon: 0.15417328217978102
+Total Hits : 7
+Episode: 373, Total Reward: 193.30, Epsilon: 0.1534024157688821
+Total Hits : 12
+Episode: 374, Total Reward: 41.86, Epsilon: 0.1526354036900377
+Total Hits : 8
+Episode: 375, Total Reward: 193.30, Epsilon: 0.1518722266715875
+Total Hits : 12
+Episode: 376, Total Reward: -47.18, Epsilon: 0.15111286553822956
+Total Hits : 0
+Episode: 377, Total Reward: 55.34, Epsilon: 0.15035730121053842
+Total Hits : 9
+Episode: 378, Total Reward: -14.57, Epsilon: 0.14960551470448571
+Total Hits : 4
+Episode: 379, Total Reward: 192.52, Epsilon: 0.14885748713096328
+Total Hits : 12
+Episode: 380, Total Reward: -34.53, Epsilon: 0.14811319969530845
+Total Hits : 2
+Episode: 381, Total Reward: -45.96, Epsilon: 0.1473726336968319
+Total Hits : 0
+Episode: 382, Total Reward: 53.65, Epsilon: 0.14663577052834775
+Total Hits : 9
+Episode: 383, Total Reward: 27.63, Epsilon: 0.14590259167570602
+Total Hits : 7
+Episode: 384, Total Reward: -32.60, Epsilon: 0.1451730787173275
+Total Hits : 2
+Episode: 385, Total Reward: 19.03, Epsilon: 0.14444721332374086
+Total Hits : 7
+Episode: 386, Total Reward: -13.58, Epsilon: 0.14372497725712216
+Total Hits : 4
+Episode: 387, Total Reward: -12.38, Epsilon: 0.14300635237083656
+Total Hits : 4
+Episode: 388, Total Reward: 194.74, Epsilon: 0.14229132060898236
+Total Hits : 12
+Episode: 389, Total Reward: -34.78, Epsilon: 0.14157986400593744
+Total Hits : 2
+Episode: 390, Total Reward: -13.95, Epsilon: 0.14087196468590776
+Total Hits : 4
+Episode: 391, Total Reward: 194.88, Epsilon: 0.14016760486247823
+Total Hits : 12
+Episode: 392, Total Reward: -28.59, Epsilon: 0.13946676683816583
+Total Hits : 3
+Episode: 393, Total Reward: 194.72, Epsilon: 0.138769433003975
+Total Hits : 12
+Episode: 394, Total Reward: 194.91, Epsilon: 0.13807558583895513
+Total Hits : 12
+Episode: 395, Total Reward: 16.61, Epsilon: 0.13738520790976036
+Total Hits : 6
+Episode: 396, Total Reward: 41.46, Epsilon: 0.13669828187021155
+Total Hits : 8
+Episode: 397, Total Reward: 195.18, Epsilon: 0.13601479046086049
+Total Hits : 12
+Episode: 398, Total Reward: -34.10, Epsilon: 0.1353347165085562
+Total Hits : 2
+Episode: 399, Total Reward: 194.81, Epsilon: 0.1346580429260134
+Total Hits : 12
+Average_reward : -40.05
+Episode: 400, Total Reward: 194.60, Epsilon: 0.13398475271138335
+Total Hits : 12
+Episode: 401, Total Reward: -39.65, Epsilon: 0.13331482894782642
+Total Hits : 1
+Episode: 402, Total Reward: 1.81, Epsilon: 0.13264825480308728
+Total Hits : 5
+Episode: 403, Total Reward: -40.97, Epsilon: 0.13198501352907185
+Total Hits : 1
+Episode: 404, Total Reward: -45.60, Epsilon: 0.1313250884614265
+Total Hits : 1
+Episode: 405, Total Reward: -26.86, Epsilon: 0.13066846301911936
+Total Hits : 3
+Episode: 406, Total Reward: -25.83, Epsilon: 0.13001512070402377
+Total Hits : 3
+Episode: 407, Total Reward: -14.67, Epsilon: 0.12936504510050365
+Total Hits : 4
+Episode: 408, Total Reward: -47.19, Epsilon: 0.12871821987500112
+Total Hits : 0
+Episode: 409, Total Reward: -39.35, Epsilon: 0.12807462877562611
+Total Hits : 1
+Episode: 410, Total Reward: -46.11, Epsilon: 0.12743425563174798
+Total Hits : 0
+Episode: 411, Total Reward: -47.05, Epsilon: 0.12679708435358925
+Total Hits : 0
+Episode: 412, Total Reward: 193.03, Epsilon: 0.1261630989318213
+Total Hits : 12
+Episode: 413, Total Reward: -45.96, Epsilon: 0.1255322834371622
+Total Hits : 0
+Episode: 414, Total Reward: -46.27, Epsilon: 0.12490462201997637
+Total Hits : 0
+Episode: 415, Total Reward: -14.68, Epsilon: 0.1242800989098765
+Total Hits : 4
+Episode: 416, Total Reward: 192.86, Epsilon: 0.12365869841532712
+Total Hits : 12
+Episode: 417, Total Reward: -37.47, Epsilon: 0.12304040492325048
+Total Hits : 3
+Episode: 418, Total Reward: -46.09, Epsilon: 0.12242520289863423
+Total Hits : 0
+Episode: 419, Total Reward: -44.07, Epsilon: 0.12181307688414106
+Total Hits : 1
+Episode: 420, Total Reward: 192.73, Epsilon: 0.12120401149972035
+Total Hits : 12
+Episode: 421, Total Reward: -34.43, Epsilon: 0.12059799144222175
+Total Hits : 2
+Episode: 422, Total Reward: -39.37, Epsilon: 0.11999500148501063
+Total Hits : 1
+Episode: 423, Total Reward: -45.89, Epsilon: 0.11939502647758558
+Total Hits : 0
+Episode: 424, Total Reward: -47.66, Epsilon: 0.11879805134519765
+Total Hits : 0
+Episode: 425, Total Reward: -41.64, Epsilon: 0.11820406108847166
+Total Hits : 1
+Episode: 426, Total Reward: 13.25, Epsilon: 0.1176130407830293
+Total Hits : 6
+Episode: 427, Total Reward: 41.93, Epsilon: 0.11702497557911415
+Total Hits : 8
+Episode: 428, Total Reward: -13.44, Epsilon: 0.11643985070121858
+Total Hits : 4
+Episode: 429, Total Reward: -39.36, Epsilon: 0.11585765144771248
+Total Hits : 1
+Episode: 430, Total Reward: -35.98, Epsilon: 0.11527836319047392
+Total Hits : 2
+Episode: 431, Total Reward: -41.69, Epsilon: 0.11470197137452155
+Total Hits : 1
+Episode: 432, Total Reward: -35.57, Epsilon: 0.11412846151764894
+Total Hits : 3
+Episode: 433, Total Reward: -10.71, Epsilon: 0.1135578192100607
+Total Hits : 5
+Episode: 434, Total Reward: -39.24, Epsilon: 0.11299003011401039
+Total Hits : 1
+Episode: 435, Total Reward: -34.88, Epsilon: 0.11242507996344034
+Total Hits : 2
+Episode: 436, Total Reward: -46.14, Epsilon: 0.11186295456362313
+Total Hits : 0
+Episode: 437, Total Reward: -41.66, Epsilon: 0.11130363979080501
+Total Hits : 1
+Episode: 438, Total Reward: -7.70, Epsilon: 0.11074712159185099
+Total Hits : 5
+Episode: 439, Total Reward: -12.56, Epsilon: 0.11019338598389174
+Total Hits : 4
+Episode: 440, Total Reward: -26.99, Epsilon: 0.10964241905397228
+Total Hits : 3
+Episode: 441, Total Reward: -18.14, Epsilon: 0.10909420695870241
+Total Hits : 4
+Episode: 442, Total Reward: 192.87, Epsilon: 0.1085487359239089
+Total Hits : 12
+Episode: 443, Total Reward: -39.91, Epsilon: 0.10800599224428936
+Total Hits : 1
+Episode: 444, Total Reward: -46.40, Epsilon: 0.10746596228306791
+Total Hits : 0
+Episode: 445, Total Reward: -39.67, Epsilon: 0.10692863247165257
+Total Hits : 1
+Episode: 446, Total Reward: -46.37, Epsilon: 0.1063939893092943
+Total Hits : 0
+Episode: 447, Total Reward: 27.01, Epsilon: 0.10586201936274783
+Total Hits : 7
+Episode: 448, Total Reward: -46.09, Epsilon: 0.10533270926593409
+Total Hits : 0
+Episode: 449, Total Reward: 67.96, Epsilon: 0.10480604571960442
+Total Hits : 10
+Episode: 450, Total Reward: 81.52, Epsilon: 0.1042820154910064
+Total Hits : 11
+Episode: 451, Total Reward: -3.54, Epsilon: 0.10376060541355137
+Total Hits : 5
+Episode: 452, Total Reward: -4.19, Epsilon: 0.1032418023864836
+Total Hits : 5
+Episode: 453, Total Reward: 26.86, Epsilon: 0.10272559337455119
+Total Hits : 7
+Episode: 454, Total Reward: -46.08, Epsilon: 0.10221196540767843
+Total Hits : 0
+Episode: 455, Total Reward: -47.70, Epsilon: 0.10170090558064004
+Total Hits : 0
+Episode: 456, Total Reward: -47.61, Epsilon: 0.10119240105273684
+Total Hits : 0
+Episode: 457, Total Reward: 57.16, Epsilon: 0.10068643904747315
+Total Hits : 9
+Episode: 458, Total Reward: 192.72, Epsilon: 0.10018300685223579
+Total Hits : 12
+Episode: 459, Total Reward: -14.21, Epsilon: 0.0996820918179746
+Total Hits : 4
+Episode: 460, Total Reward: -46.43, Epsilon: 0.0996820918179746
+Total Hits : 0
+Episode: 461, Total Reward: -13.80, Epsilon: 0.0996820918179746
+Total Hits : 4
+Episode: 462, Total Reward: -13.93, Epsilon: 0.0996820918179746
+Total Hits : 4
+Episode: 463, Total Reward: -39.21, Epsilon: 0.0996820918179746
+Total Hits : 1
+Episode: 464, Total Reward: -46.32, Epsilon: 0.0996820918179746
+Total Hits : 0
+Episode: 465, Total Reward: -13.92, Epsilon: 0.0996820918179746
+Total Hits : 4
+Episode: 466, Total Reward: -12.08, Epsilon: 0.0996820918179746
+Total Hits : 5
+Episode: 467, Total Reward: -13.72, Epsilon: 0.0996820918179746
+Total Hits : 4
+Episode: 468, Total Reward: -34.30, Epsilon: 0.0996820918179746
+Total Hits : 2
+Episode: 469, Total Reward: -13.95, Epsilon: 0.0996820918179746
+Total Hits : 4
+Episode: 470, Total Reward: -39.51, Epsilon: 0.0996820918179746
+Total Hits : 1
+Episode: 471, Total Reward: -11.00, Epsilon: 0.0996820918179746
+Total Hits : 4
+Episode: 472, Total Reward: -13.56, Epsilon: 0.0996820918179746
+Total Hits : 4
+Episode: 473, Total Reward: -4.19, Epsilon: 0.0996820918179746
+Total Hits : 5
+Episode: 474, Total Reward: 192.45, Epsilon: 0.0996820918179746
+Total Hits : 12
+Episode: 475, Total Reward: 13.90, Epsilon: 0.0996820918179746
+Total Hits : 6
+Episode: 476, Total Reward: 68.34, Epsilon: 0.0996820918179746
+Total Hits : 10
+Episode: 477, Total Reward: 193.00, Epsilon: 0.0996820918179746
+Total Hits : 12
+Episode: 478, Total Reward: -46.82, Epsilon: 0.0996820918179746
+Total Hits : 0
+Episode: 479, Total Reward: 14.31, Epsilon: 0.0996820918179746
+Total Hits : 6
+Episode: 480, Total Reward: 23.87, Epsilon: 0.0996820918179746
+Total Hits : 7
+Episode: 481, Total Reward: -27.68, Epsilon: 0.0996820918179746
+Total Hits : 3
+Episode: 482, Total Reward: 192.65, Epsilon: 0.0996820918179746
+Total Hits : 12
+Episode: 483, Total Reward: 67.97, Epsilon: 0.0996820918179746
+Total Hits : 10
+Episode: 484, Total Reward: 0.31, Epsilon: 0.0996820918179746
+Total Hits : 5
+Episode: 485, Total Reward: -40.35, Epsilon: 0.0996820918179746
+Total Hits : 1
+Episode: 486, Total Reward: -33.33, Epsilon: 0.0996820918179746
+Total Hits : 2
+Episode: 487, Total Reward: 41.19, Epsilon: 0.0996820918179746
+Total Hits : 8
+Episode: 488, Total Reward: 55.01, Epsilon: 0.0996820918179746
+Total Hits : 9
+Episode: 489, Total Reward: -14.13, Epsilon: 0.0996820918179746
+Total Hits : 4
+Episode: 490, Total Reward: 27.60, Epsilon: 0.0996820918179746
+Total Hits : 7
+Episode: 491, Total Reward: 6.50, Epsilon: 0.0996820918179746
+Total Hits : 6
+Episode: 492, Total Reward: -39.63, Epsilon: 0.0996820918179746
+Total Hits : 1
+Episode: 493, Total Reward: 15.07, Epsilon: 0.0996820918179746
+Total Hits : 6
+Episode: 494, Total Reward: 13.87, Epsilon: 0.0996820918179746
+Total Hits : 6
+Episode: 495, Total Reward: 14.21, Epsilon: 0.0996820918179746
+Total Hits : 6
+Episode: 496, Total Reward: -45.96, Epsilon: 0.0996820918179746
+Total Hits : 0
+Episode: 497, Total Reward: -26.44, Epsilon: 0.0996820918179746
+Total Hits : 3
+Episode: 498, Total Reward: -13.68, Epsilon: 0.0996820918179746
+Total Hits : 4
+Episode: 499, Total Reward: 27.97, Epsilon: 0.0996820918179746
+Total Hits : 7
+Average_reward : -39.65
+Episode: 500, Total Reward: 81.87, Epsilon: 0.0996820918179746
+Total Hits : 11
